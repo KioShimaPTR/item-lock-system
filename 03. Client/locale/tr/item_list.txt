@@ -1,0 +1,2 @@
+50263	ETC	icon/item/50263.tga
+50264	ETC	icon/item/50264.tga

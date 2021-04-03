@@ -1,0 +1,2 @@
+50263	Baðlama Parþömeni	Bu parþömen ile itemini kilitleyebilirsin. Kilitlediðin item koruma altýna alýnýr.
+50264	Ayýrma Parþömeni	Bu parþömen ile kilitli iteminin kilidini kaldýrabilirsin. Kilidini kaldýrdýðýn item artýk korumasýzdýr.
